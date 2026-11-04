@@ -3,7 +3,7 @@
 > 面向浙大紫金港学生的选餐决策工具，解决"不知道吃什么"这件每天都要发生一次的小事。
 > 店铺数据来自嬉游旅行指南《不能旅游，你还可以去这条堕落街吃遍全国啊》一文的实地探店记录。
 
-**🔗 在线体验：<https://xingyue-zheng.github.io/food-map/>**
+**🔗 在线体验：<https://soniazheng98.github.io/food-map/>**
 
 |  |  |
 |---|---|
@@ -56,7 +56,7 @@
 不需要任何依赖，但因为用了 `file://` 下受限的特性，建议起一个静态服务：
 
 ```bash
-git clone https://github.com/Xingyue-Zheng/food-map.git
+git clone https://github.com/SoniaZheng98/food-map.git
 cd food-map
 python -m http.server 8000
 ```
